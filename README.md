@@ -14,9 +14,9 @@ npm run dev
 
 ## Tech Stack
 
-Next.js 15 (App Router) -> Server Components, SSR/SEO, dynamic routes
-TailwindCSS -> styling
-Node fetch -> Κλήσεις στο Movie API
+-Next.js 15 (App Router) -> Server Components, SSR/SEO, dynamic routes
+-TailwindCSS -> styling
+-Node fetch -> Κλήσεις στο Movie API
 
 ## Requirements & Πώς Καλύφθηκαν
 
